@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "MATH 4793/5793 Course Work"
+author: "Wayne Stewart"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -13,6 +13,9 @@ description: "This is a minimal example of using the bookdown package to write a
 ---
 
 # Prerequisites
+
+Use this as a template for your course contributions.
+
 
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
