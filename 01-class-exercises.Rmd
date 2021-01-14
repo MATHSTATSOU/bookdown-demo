@@ -1,4 +1,6 @@
-# Introduction {#intro}
+# Class exercises {#intro}
+
+There will be a number of class exercises which you will need to create. These will be knitted individually to html and each uploaded to CANVAS and then -- the RMD will then be placed into the Book.
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
 
